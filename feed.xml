@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרבנית תאיר גולן</title>
-    <description>שיעורי תורה - הרבנית תאיר גולן - אוצר התורה</description>
+    <description>שיעורי אמונה וחיזוק לנשים מפי הרבנית תאיר גולן. אמונה וביטחון, תפילה, שמחה, שלום בית וכוח האישה היהודייה - אוצר התורה.</description>
+    <itunes:summary>שיעורי אמונה וחיזוק לנשים מפי הרבנית תאיר גולן. אמונה וביטחון, תפילה, שמחה, שלום בית וכוח האישה היהודייה - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/golan</link>
     <language>he</language>
     <itunes:author>הרבנית תאיר גולן</itunes:author>
