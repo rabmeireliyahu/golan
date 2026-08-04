@@ -3,7 +3,6 @@
   <channel>
     <title>הרבנית תאיר גולן</title>
     <description>שיעורי אמונה וחיזוק לנשים מפי הרבנית תאיר גולן. אמונה וביטחון, תפילה, שמחה, שלום בית וכוח האישה היהודייה - אוצר התורה.</description>
-    <itunes:summary>שיעורי אמונה וחיזוק לנשים מפי הרבנית תאיר גולן. אמונה וביטחון, תפילה, שמחה, שלום בית וכוח האישה היהודייה - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/golan</link>
     <language>he</language>
     <itunes:author>הרבנית תאיר גולן</itunes:author>
@@ -15,21 +14,57 @@
     <itunes:category text="Religion &amp; Spirituality"/>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>הרב יגאל כהן האם מי שמאמין באמת מקבל ？ שיעור מיוחד לשמוע בלי הפסקה !!</title>
+      <description>הרב יגאל כהן האם מי שמאמין באמת מקבל ？ שיעור מיוחד לשמוע בלי הפסקה !!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91_%D7%99%D7%92%D7%90%D7%9C_%D7%9B%D7%94%D7%9F_%D7%94%D7%90%D7%9D_%D7%9E%D7%99_%D7%A9%D7%9E%D7%90%D7%9E%D7%99%D7%9F_%D7%91%D7%90%D7%9E%D7%AA_%D7%9E%D7%A7%D7%91%D7%9C_%EF%BC%9F_%D7%A9%D7%99%D7%A2%D7%95%D7%A8_%D7%9E%D7%99%D7%95%D7%97%D7%93_%D7%9C%D7%A9%D7%9E%D7%95%D7%A2_%D7%91%D7%9C%D7%99_%D7%94%D7%A4%D7%A1%D7%A7%D7%94_%21%21.mp3" length="69442221" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב_יגאל_כהן_האם_מי_שמאמין_באמת_מקבל_？_שיעור_מיוחד_לשמוע_בלי_הפסקה_!!.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 22:53:07 -0000</pubDate>
+      <itunes:duration>01:12:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב זמיר כהן מהו האושר האמיתי שיעור מצמרר חובה</title>
+      <description>הרב זמיר כהן מהו האושר האמיתי שיעור מצמרר חובה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91_%D7%96%D7%9E%D7%99%D7%A8_%D7%9B%D7%94%D7%9F_%D7%9E%D7%94%D7%95_%D7%94%D7%90%D7%95%D7%A9%D7%A8_%D7%94%D7%90%D7%9E%D7%99%D7%AA%D7%99_%D7%A9%D7%99%D7%A2%D7%95%D7%A8_%D7%9E%D7%A6%D7%9E%D7%A8%D7%A8_%D7%97%D7%95%D7%91%D7%94.mp3" length="57143085" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב_זמיר_כהן_מהו_האושר_האמיתי_שיעור_מצמרר_חובה.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 22:56:14 -0000</pubDate>
+      <itunes:duration>00:59:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב יגאל כהן איך להישאר באמונה כשאתה בזמן הכי קשה של החיים!! שיעור מיוחד!!</title>
+      <description>הרב יגאל כהן איך להישאר באמונה כשאתה בזמן הכי קשה של החיים!! שיעור מיוחד!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91_%D7%99%D7%92%D7%90%D7%9C_%D7%9B%D7%94%D7%9F_%D7%90%D7%99%D7%9A_%D7%9C%D7%94%D7%99%D7%A9%D7%90%D7%A8_%D7%91%D7%90%D7%9E%D7%95%D7%A0%D7%94_%D7%9B%D7%A9%D7%90%D7%AA%D7%94_%D7%91%D7%96%D7%9E%D7%9F_%D7%94%D7%9B%D7%99_%D7%A7%D7%A9%D7%94_%D7%A9%D7%9C_%D7%94%D7%97%D7%99%D7%99%D7%9D%21%21_%D7%A9%D7%99%D7%A2%D7%95%D7%A8_%D7%9E%D7%99%D7%95%D7%97%D7%93%21%21.mp3" length="61874733" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב_יגאל_כהן_איך_להישאר_באמונה_כשאתה_בזמן_הכי_קשה_של_החיים!!_שיעור_מיוחד!!.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 22:59:08 -0000</pubDate>
+      <itunes:duration>01:04:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב זמיר כהן הרצאה מרתקת על ימי בין המצרים לתשעה באב חורבן בית המקדש</title>
+      <description>הרב זמיר כהן הרצאה מרתקת על ימי בין המצרים לתשעה באב חורבן בית המקדש</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91_%D7%96%D7%9E%D7%99%D7%A8_%D7%9B%D7%94%D7%9F_%D7%94%D7%A8%D7%A6%D7%90%D7%94_%D7%9E%D7%A8%D7%AA%D7%A7%D7%AA_%D7%A2%D7%9C_%D7%99%D7%9E%D7%99_%D7%91%D7%99%D7%9F_%D7%94%D7%9E%D7%A6%D7%A8%D7%99%D7%9D_%D7%9C%D7%AA%D7%A9%D7%A2%D7%94_%D7%91%D7%90%D7%91_%D7%97%D7%95%D7%A8%D7%91%D7%9F_%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A7%D7%93%D7%A9.mp3" length="60208173" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב_זמיר_כהן_הרצאה_מרתקת_על_ימי_בין_המצרים_לתשעה_באב_חורבן_בית_המקדש.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:01:45 -0000</pubDate>
+      <itunes:duration>01:02:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>הרב זמיר כהן לא יאומן מה יקרה בארץ ישראל בזמן הגאולה שיעור חובה!!!</title>
+      <description>הרב זמיר כהן לא יאומן מה יקרה בארץ ישראל בזמן הגאולה שיעור חובה!!!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91_%D7%96%D7%9E%D7%99%D7%A8_%D7%9B%D7%94%D7%9F_%D7%9C%D7%90_%D7%99%D7%90%D7%95%D7%9E%D7%9F_%D7%9E%D7%94_%D7%99%D7%A7%D7%A8%D7%94_%D7%91%D7%90%D7%A8%D7%A5_%D7%99%D7%A9%D7%A8%D7%90%D7%9C_%D7%91%D7%96%D7%9E%D7%9F_%D7%94%D7%92%D7%90%D7%95%D7%9C%D7%94_%D7%A9%D7%99%D7%A2%D7%95%D7%A8_%D7%97%D7%95%D7%91%D7%94%21%21%21.mp3" length="17312301" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב_זמיר_כהן_לא_יאומן_מה_יקרה_בארץ_ישראל_בזמן_הגאולה_שיעור_חובה!!!.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:04:37 -0000</pubDate>
+      <itunes:duration>00:18:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Insta 20260207 - תתחילי ממשהו קטן… פתאום אחרי תקופה תמצאי את עצמך שומרת לגמרי❤️</title>
       <description>Insta 20260207 - תתחילי ממשהו קטן… פתאום אחרי תקופה תמצאי את עצמך שומרת לגמרי❤️</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%2020260207%20-%20%D7%AA%D7%AA%D7%97%D7%99%D7%9C%D7%99%20%D7%9E%D7%9E%D7%A9%D7%94%D7%95%20%D7%A7%D7%98%D7%9F%E2%80%A6%20%D7%A4%D7%AA%D7%90%D7%95%D7%9D%20%D7%90%D7%97%D7%A8%D7%99%20%D7%AA%D7%A7%D7%95%D7%A4%D7%94%20%D7%AA%D7%9E%D7%A6%D7%90%D7%99%20%D7%90%D7%AA%20%D7%A2%D7%A6%D7%9E%D7%9A%20%D7%A9%D7%95%D7%9E%D7%A8%D7%AA%20%D7%9C%D7%92%D7%9E%D7%A8%D7%99%E2%9D%A4%EF%B8%8F.mp3" length="1499362" type="audio/mpeg"/>
       <guid isPermaLink="false">Insta 20260207 - תתחילי ממשהו קטן… פתאום אחרי תקופה תמצאי את עצמך שומרת לגמרי❤️.mp3</guid>
       <pubDate>Tue, 28 Jul 2026 23:32:02 -0000</pubDate>
       <itunes:duration>00:01:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרבנית תאיר גולן למה מתחפשים בפורים</title>
-      <description>הרבנית תאיר גולן למה מתחפשים בפורים</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%9C%D7%9E%D7%94%20%D7%9E%D7%AA%D7%97%D7%A4%D7%A9%D7%99%D7%9D%20%D7%91%D7%A4%D7%95%D7%A8%D7%99%D7%9D.mp3" length="1782449" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרבנית תאיר גולן למה מתחפשים בפורים.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:15:14 -0000</pubDate>
-      <itunes:duration>00:01:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
