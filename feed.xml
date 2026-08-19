@@ -1,198 +1,208 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>הרבנית תאיר גולן</title>
-    <description>שיעורי תורה - הרבנית תאיר גולן - אוצר התורה</description>
-    <link>https://rabmeireliyahu.github.io/golan</link>
-    <language>he</language>
-    <itunes:author>הרבנית תאיר גולן</itunes:author>
-    <itunes:owner>
-      <itunes:name>הרבנית תאיר גולן</itunes:name>
-      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/golan/portada.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>
-    <itunes:explicit>false</itunes:explicit>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>הרבנית תאיר גולן</title>
+    <description>שיעורי תורה - הרבנית תאיר גולן - אוצר התורה</description>
+    <link>https://rabmeireliyahu.github.io/golan</link>
+    <language>he</language>
+    <itunes:author>הרבנית תאיר גולן</itunes:author>
+    <itunes:owner>
+      <itunes:name>הרבנית תאיר גולן</itunes:name>
+      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/golan/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>Insta - 3944140264959492099</title>
+      <description>Insta - 3944140264959492099</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203944140264959492099.mp3" length="2024319" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3944140264959492099.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:10:37 -0000</pubDate>
+      <itunes:duration>00:02:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3939106589234539295</title>
+      <description>Insta - 3939106589234539295</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203939106589234539295.mp3" length="1402396" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3939106589234539295.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:10:48 -0000</pubDate>
+      <itunes:duration>00:01:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3928932013942919719</title>
+      <description>Insta - 3928932013942919719</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203928932013942919719.mp3" length="1564146" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3928932013942919719.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:11:03 -0000</pubDate>
+      <itunes:duration>00:01:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3918760605669515879</title>
+      <description>Insta - 3918760605669515879</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203918760605669515879.mp3" length="1735091" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3918760605669515879.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:11:15 -0000</pubDate>
+      <itunes:duration>00:01:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3908609529360262330</title>
+      <description>Insta - 3908609529360262330</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203908609529360262330.mp3" length="1523186" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3908609529360262330.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:11:30 -0000</pubDate>
+      <itunes:duration>00:01:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3898453153779726298</title>
+      <description>Insta - 3898453153779726298</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203898453153779726298.mp3" length="1493511" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3898453153779726298.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:11:41 -0000</pubDate>
+      <itunes:duration>00:01:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3888308751623152699</title>
+      <description>Insta - 3888308751623152699</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203888308751623152699.mp3" length="1469687" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3888308751623152699.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:11:57 -0000</pubDate>
+      <itunes:duration>00:01:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3883282484993874486</title>
+      <description>Insta - 3883282484993874486</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203883282484993874486.mp3" length="1521932" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3883282484993874486.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:12:07 -0000</pubDate>
+      <itunes:duration>00:01:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3878151485233754002</title>
+      <description>Insta - 3878151485233754002</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203878151485233754002.mp3" length="1044205" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3878151485233754002.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:12:18 -0000</pubDate>
+      <itunes:duration>00:01:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3868766817653545193</title>
+      <description>Insta - 3868766817653545193</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203868766817653545193.mp3" length="701478" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3868766817653545193.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:12:28 -0000</pubDate>
+      <itunes:duration>00:00:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3863483474783277457</title>
+      <description>Insta - 3863483474783277457</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203863483474783277457.mp3" length="1715865" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3863483474783277457.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:12:38 -0000</pubDate>
+      <itunes:duration>00:01:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3862955102646199051</title>
+      <description>Insta - 3862955102646199051</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203862955102646199051.mp3" length="1201775" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3862955102646199051.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:12:50 -0000</pubDate>
+      <itunes:duration>00:01:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3857854991779937723</title>
+      <description>Insta - 3857854991779937723</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203857854991779937723.mp3" length="1109406" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3857854991779937723.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:13:00 -0000</pubDate>
+      <itunes:duration>00:01:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3850459238845578133</title>
+      <description>Insta - 3850459238845578133</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203850459238845578133.mp3" length="1316714" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3850459238845578133.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:13:10 -0000</pubDate>
+      <itunes:duration>00:01:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insta - 3827391011039088753</title>
+      <description>Insta - 3827391011039088753</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203827391011039088753.mp3" length="1499362" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insta - 3827391011039088753.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 23:13:23 -0000</pubDate>
+      <itunes:duration>00:01:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
-      <title>Insta - 3944140264959492099</title>
-      <description>Insta - 3944140264959492099</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203944140264959492099.mp3" length="2024319" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3944140264959492099.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:10:37 -0000</pubDate>
-      <itunes:duration>00:02:06</itunes:duration>
+      <title>היום אם בקולו תשמעו״ - היום! לא מחר מזכת הרבים תאיר גולן לקראת ראש השנה</title>
+      <description>היום אם בקולו תשמעו״ - היום! לא מחר מזכת הרבים תאיר גולן לקראת ראש השנה</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%99%D7%95%D7%9D%20%D7%90%D7%9D%20%D7%91%D7%A7%D7%95%D7%9C%D7%95%20%D7%AA%D7%A9%D7%9E%D7%A2%D7%95%D7%B4%20-%20%D7%94%D7%99%D7%95%D7%9D%21%20%D7%9C%D7%90%20%D7%9E%D7%97%D7%A8%20%D7%9E%D7%96%D7%9B%D7%AA%20%D7%94%D7%A8%D7%91%D7%99%D7%9D%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%9C%D7%A7%D7%A8%D7%90%D7%AA%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A9%D7%A0%D7%94.mp3" length="899519" type="audio/mpeg"/>
+      <guid isPermaLink="false">היום אם בקולו תשמעו״ - היום! לא מחר מזכת הרבים תאיר גולן לקראת ראש השנה.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 10:59:51 -0000</pubDate>
+      <itunes:duration>00:00:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Insta - 3939106589234539295</title>
-      <description>Insta - 3939106589234539295</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203939106589234539295.mp3" length="1402396" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3939106589234539295.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:10:48 -0000</pubDate>
-      <itunes:duration>00:01:27</itunes:duration>
+      <title>הרבנית תאיר גולן כי חולת אהבה אני</title>
+      <description>הרבנית תאיר גולן כי חולת אהבה אני</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%9B%D7%99%20%D7%97%D7%95%D7%9C%D7%AA%20%D7%90%D7%94%D7%91%D7%94%20%D7%90%D7%A0%D7%99.mp3" length="932258" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרבנית תאיר גולן כי חולת אהבה אני.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 10:59:56 -0000</pubDate>
+      <itunes:duration>00:00:58</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Insta - 3928932013942919719</title>
-      <description>Insta - 3928932013942919719</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203928932013942919719.mp3" length="1564146" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3928932013942919719.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:11:03 -0000</pubDate>
-      <itunes:duration>00:01:37</itunes:duration>
+      <title>הרבנית תאיר גולן יוצאת או בורחת ？</title>
+      <description>הרבנית תאיר גולן יוצאת או בורחת ？</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%99%D7%95%D7%A6%D7%90%D7%AA%20%D7%90%D7%95%20%D7%91%D7%95%D7%A8%D7%97%D7%AA%20%EF%BC%9F.mp3" length="2580383" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרבנית תאיר גולן יוצאת או בורחת ？.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 11:00:01 -0000</pubDate>
+      <itunes:duration>00:02:41</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Insta - 3918760605669515879</title>
-      <description>Insta - 3918760605669515879</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203918760605669515879.mp3" length="1735091" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3918760605669515879.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:11:15 -0000</pubDate>
-      <itunes:duration>00:01:48</itunes:duration>
+      <title>למה לצום על משהו שקרה לפני 2000 שנה？ הרבנית תאיר גולן</title>
+      <description>למה לצום על משהו שקרה לפני 2000 שנה？ הרבנית תאיר גולן</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%9C%D7%9E%D7%94%20%D7%9C%D7%A6%D7%95%D7%9D%20%D7%A2%D7%9C%20%D7%9E%D7%A9%D7%94%D7%95%20%D7%A9%D7%A7%D7%A8%D7%94%20%D7%9C%D7%A4%D7%A0%D7%99%202000%20%D7%A9%D7%A0%D7%94%EF%BC%9F%20%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F.mp3" length="1366044" type="audio/mpeg"/>
+      <guid isPermaLink="false">למה לצום על משהו שקרה לפני 2000 שנה？ הרבנית תאיר גולן.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 11:00:08 -0000</pubDate>
+      <itunes:duration>00:01:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Insta - 3908609529360262330</title>
-      <description>Insta - 3908609529360262330</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203908609529360262330.mp3" length="1523186" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3908609529360262330.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:11:30 -0000</pubDate>
-      <itunes:duration>00:01:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3898453153779726298</title>
-      <description>Insta - 3898453153779726298</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203898453153779726298.mp3" length="1493511" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3898453153779726298.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:11:41 -0000</pubDate>
-      <itunes:duration>00:01:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3888308751623152699</title>
-      <description>Insta - 3888308751623152699</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203888308751623152699.mp3" length="1469687" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3888308751623152699.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:11:57 -0000</pubDate>
-      <itunes:duration>00:01:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3883282484993874486</title>
-      <description>Insta - 3883282484993874486</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203883282484993874486.mp3" length="1521932" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3883282484993874486.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:12:07 -0000</pubDate>
-      <itunes:duration>00:01:35</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3878151485233754002</title>
-      <description>Insta - 3878151485233754002</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203878151485233754002.mp3" length="1044205" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3878151485233754002.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:12:18 -0000</pubDate>
-      <itunes:duration>00:01:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3868766817653545193</title>
-      <description>Insta - 3868766817653545193</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203868766817653545193.mp3" length="701478" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3868766817653545193.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:12:28 -0000</pubDate>
-      <itunes:duration>00:00:43</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3863483474783277457</title>
-      <description>Insta - 3863483474783277457</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203863483474783277457.mp3" length="1715865" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3863483474783277457.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:12:38 -0000</pubDate>
-      <itunes:duration>00:01:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3862955102646199051</title>
-      <description>Insta - 3862955102646199051</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203862955102646199051.mp3" length="1201775" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3862955102646199051.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:12:50 -0000</pubDate>
-      <itunes:duration>00:01:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3857854991779937723</title>
-      <description>Insta - 3857854991779937723</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203857854991779937723.mp3" length="1109406" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3857854991779937723.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:13:00 -0000</pubDate>
-      <itunes:duration>00:01:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3850459238845578133</title>
-      <description>Insta - 3850459238845578133</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203850459238845578133.mp3" length="1316714" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3850459238845578133.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:13:10 -0000</pubDate>
-      <itunes:duration>00:01:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insta - 3827391011039088753</title>
-      <description>Insta - 3827391011039088753</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/Insta%20-%203827391011039088753.mp3" length="1499362" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insta - 3827391011039088753.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 23:13:23 -0000</pubDate>
-      <itunes:duration>00:01:33</itunes:duration>
+      <title>הרבנית תאיר גולן האם בורא עולם  חייב לנו</title>
+      <description>הרבנית תאיר גולן האם בורא עולם  חייב לנו</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%94%D7%90%D7%9D%20%D7%91%D7%95%D7%A8%D7%90%20%D7%A2%D7%95%D7%9C%D7%9D%20%20%D7%97%D7%99%D7%99%D7%91%20%D7%9C%D7%A0%D7%95.mp3" length="1954476" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרבנית תאיר גולן האם בורא עולם  חייב לנו.mp3</guid>
+      <pubDate>Fri, 07 Aug 2026 11:00:13 -0000</pubDate>
+      <itunes:duration>00:02:02</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>היום אם בקולו תשמעו״ - היום! לא מחר מזכת הרבים תאיר גולן לקראת ראש השנה</title>
-      <description>היום אם בקולו תשמעו״ - היום! לא מחר מזכת הרבים תאיר גולן לקראת ראש השנה</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%99%D7%95%D7%9D%20%D7%90%D7%9D%20%D7%91%D7%A7%D7%95%D7%9C%D7%95%20%D7%AA%D7%A9%D7%9E%D7%A2%D7%95%D7%B4%20-%20%D7%94%D7%99%D7%95%D7%9D%21%20%D7%9C%D7%90%20%D7%9E%D7%97%D7%A8%20%D7%9E%D7%96%D7%9B%D7%AA%20%D7%94%D7%A8%D7%91%D7%99%D7%9D%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%9C%D7%A7%D7%A8%D7%90%D7%AA%20%D7%A8%D7%90%D7%A9%20%D7%94%D7%A9%D7%A0%D7%94.mp3" length="899519" type="audio/mpeg"/>
-      <guid isPermaLink="false">היום אם בקולו תשמעו״ - היום! לא מחר מזכת הרבים תאיר גולן לקראת ראש השנה.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 10:59:51 -0000</pubDate>
-      <itunes:duration>00:00:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרבנית תאיר גולן כי חולת אהבה אני</title>
-      <description>הרבנית תאיר גולן כי חולת אהבה אני</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%9B%D7%99%20%D7%97%D7%95%D7%9C%D7%AA%20%D7%90%D7%94%D7%91%D7%94%20%D7%90%D7%A0%D7%99.mp3" length="932258" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרבנית תאיר גולן כי חולת אהבה אני.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 10:59:56 -0000</pubDate>
-      <itunes:duration>00:00:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרבנית תאיר גולן יוצאת או בורחת ？</title>
-      <description>הרבנית תאיר גולן יוצאת או בורחת ？</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%99%D7%95%D7%A6%D7%90%D7%AA%20%D7%90%D7%95%20%D7%91%D7%95%D7%A8%D7%97%D7%AA%20%EF%BC%9F.mp3" length="2580383" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרבנית תאיר גולן יוצאת או בורחת ？.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 11:00:01 -0000</pubDate>
-      <itunes:duration>00:02:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>למה לצום על משהו שקרה לפני 2000 שנה？ הרבנית תאיר גולן</title>
-      <description>למה לצום על משהו שקרה לפני 2000 שנה？ הרבנית תאיר גולן</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%9C%D7%9E%D7%94%20%D7%9C%D7%A6%D7%95%D7%9D%20%D7%A2%D7%9C%20%D7%9E%D7%A9%D7%94%D7%95%20%D7%A9%D7%A7%D7%A8%D7%94%20%D7%9C%D7%A4%D7%A0%D7%99%202000%20%D7%A9%D7%A0%D7%94%EF%BC%9F%20%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F.mp3" length="1366044" type="audio/mpeg"/>
-      <guid isPermaLink="false">למה לצום על משהו שקרה לפני 2000 שנה？ הרבנית תאיר גולן.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 11:00:08 -0000</pubDate>
-      <itunes:duration>00:01:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>הרבנית תאיר גולן האם בורא עולם  חייב לנו</title>
-      <description>הרבנית תאיר גולן האם בורא עולם  חייב לנו</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%94%D7%90%D7%9D%20%D7%91%D7%95%D7%A8%D7%90%20%D7%A2%D7%95%D7%9C%D7%9D%20%20%D7%97%D7%99%D7%99%D7%91%20%D7%9C%D7%A0%D7%95.mp3" length="1954476" type="audio/mpeg"/>
-      <guid isPermaLink="false">הרבנית תאיר גולן האם בורא עולם  חייב לנו.mp3</guid>
-      <pubDate>Fri, 07 Aug 2026 11:00:13 -0000</pubDate>
-      <itunes:duration>00:02:02</itunes:duration>
+      <title>הרבנית תאיר גולן במסר חזק</title>
+      <description>הרבנית תאיר גולן במסר חזק</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-golan-shiurim/%D7%94%D7%A8%D7%91%D7%A0%D7%99%D7%AA%20%D7%AA%D7%90%D7%99%D7%A8%20%D7%92%D7%95%D7%9C%D7%9F%20%D7%91%D7%9E%D7%A1%D7%A8%20%D7%97%D7%96%D7%A7.mp3" length="1019000" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרבנית תאיר גולן במסר חזק.mp3</guid>
+      <pubDate>Wed, 19 Aug 2026 08:27:46 -0000</pubDate>
+      <itunes:duration>00:01:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-  </channel>
-</rss>
+
+  </channel>
+</rss>
